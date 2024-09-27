@@ -4,6 +4,9 @@
       "path": "SimpleBcApp"
     },
     {
+      "path": "SimpleBcApp.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
